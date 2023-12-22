@@ -4,6 +4,4 @@
   </a>
 </div>
 
-> chDB is an embedded SQL OLAP Engine powered by ClickHouse
-
-### chdb community contributions
+> chDB Community Contributions
